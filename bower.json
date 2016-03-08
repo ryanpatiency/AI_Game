@@ -1,0 +1,7 @@
+{
+  "name": "gulp_pack",
+  "dependencies": {
+    "jquery": "2.0.3"
+  },
+  "version": "0.0.1"
+}
